@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "64128a36cc156f77ac924b05"
+  },
+  "nombre_equipo": "Equipo 1",
+  "puntos": "6",
+  "diferencia_goles": "2",
+  "goles_marcados": "6",
+  "goles_recibidos": "4",
+  "tarjetas": "1",
+  "deportista": "Jhon Mario Galarza",
+  "tipo_tarjeta": "amarilla"
+},{
+  "_id": {
+    "$oid": "64128b41cc156f77ac924b09"
+  },
+  "nombre_equipo": "Equipo 2",
+  "puntos": "0",
+  "diferencia_goles": "2",
+  "goles_marcados": "4",
+  "goles_recibidos": "2",
+  "tarjetas": "0",
+  "deportista": "N/A",
+  "tipo_tarjeta": "N/A"
+},{
+  "_id": {
+    "$oid": "64128b41cc156f77ac924b0a"
+  },
+  "nombre_equipo": "Equipo 3",
+  "puntos": "0",
+  "diferencia_goles": "",
+  "goles_marcados": "0",
+  "goles_recibidos": "3",
+  "tarjetas": "1",
+  "deportista": " Carlos Perez",
+  "tipo_tarjeta": "Roja"
+},{
+  "_id": {
+    "$oid": "64129779cc156f77ac924b3c"
+  },
+  "nombre_equipo": "Equipo 4",
+  "puntos": "3",
+  "diferencia_goles": "",
+  "goles_marcados": "3",
+  "goles_recibidos": "1",
+  "tarjetas": "0",
+  "deportista": "N/A",
+  "tipo_tarjeta": "N/A"
+}]

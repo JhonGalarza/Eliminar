@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "64125421cc156f77ac924ab6"
+  },
+  "nombre_equipo": "Equipo 1",
+  "nombre_entrenador": "Alejandro",
+  "deportistas_registrados": "10"
+},{
+  "_id": {
+    "$oid": "6412549acc156f77ac924ab8"
+  },
+  "nombre_equipo": "Equipo 2",
+  "nombre_entrenador": "Jhon",
+  "deportistas_registrados": "10"
+},{
+  "_id": {
+    "$oid": "6412561fcc156f77ac924abb"
+  },
+  "nombre_equipo": "Equipo 3",
+  "nombre_entrenador": "Mario",
+  "deportistas_registrados": "10"
+},{
+  "_id": {
+    "$oid": "6412561fcc156f77ac924abc"
+  },
+  "nombre_equipo": "Equipo 4",
+  "nombre_entrenador": "José",
+  "deportistas_registrados": "10"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6412668ccc156f77ac924ade"
+  },
+  "nombre_arbitro": "arbitro 1",
+  "numero_identificación": "9260651",
+  "categoria": "principal"
+},{
+  "_id": {
+    "$oid": "6412668ccc156f77ac924adf"
+  },
+  "nombre_arbitro": "arbitro 2",
+  "numero_identificación": "107924",
+  "categoria": "asistente 1"
+},{
+  "_id": {
+    "$oid": "6412668ccc156f77ac924ae0"
+  },
+  "nombre_arbitro": "arbitro 3",
+  "numero_identificación": "321546",
+  "categoria": "asistente 2"
+}]

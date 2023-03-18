@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "641286adcc156f77ac924afc"
+  },
+  "equipo_local": "Equipo 1",
+  "equipo_visitante": "Equipo 2",
+  "resultado": "2-1",
+  "goles_local": "2",
+  "goles_visitante": "1",
+  "tarjetas": "1",
+  "deportista": "Jhon Mario Galarza_equipo 1",
+  "tipo_tarjeta": "amarilla",
+  "puntos": "3"
+},{
+  "_id": {
+    "$oid": "64128772cc156f77ac924aff"
+  },
+  "equipo_local": "Equipo 1",
+  "equipo_visitante": "Equipo 3",
+  "resultado": "3-0",
+  "goles_local": "3",
+  "goles_visitante": "0",
+  "tarjetas": "1",
+  "deportista": "Carlo Perez_Equipo 3",
+  "tipo_tarjeta": "roja",
+  "puntos": "3"
+},{
+  "_id": {
+    "$oid": "64128798cc156f77ac924b01"
+  },
+  "equipo_local": "Equipo 1",
+  "equipo_visitante": "Equipo 4",
+  "resultado": "1-3",
+  "goles_local": "1",
+  "goles_visitante": "3",
+  "tarjetas": "0",
+  "deportista": "N/A",
+  "tipo_tarjeta": "N/A",
+  "puntos": "3"
+}]

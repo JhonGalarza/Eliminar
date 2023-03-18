@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "64125a61cc156f77ac924ac0"
+  },
+  "nombre_deportista": "Jhon Mario Galarza",
+  "fecha_nacimiento": "01/01/2000",
+  "numero_identificacion": "123456789",
+  "posición": "Delantero",
+  "equipo": "equipo 1"
+},{
+  "_id": {
+    "$oid": "64125b16cc156f77ac924ac4"
+  },
+  "nombre_deportista": "Jose Hernandez",
+  "fecha_nacimiento": "02/02/2000",
+  "numero_identificacion": "987654321",
+  "posición": "Defensa",
+  "equipo": "equipo 2"
+},{
+  "_id": {
+    "$oid": "64125b5ccc156f77ac924ac6"
+  },
+  "nombre_deportista": "Edwin Nieto",
+  "fecha_nacimiento": "12/04/1993",
+  "numero_identificacion": "120493",
+  "posición": "defensa",
+  "equipo": "equipo 3"
+},{
+  "_id": {
+    "$oid": "64125c65cc156f77ac924ac9"
+  },
+  "nombre_deportista": "Orlando Perez",
+  "fecha_nacimiento": "04/08/1989",
+  "numero_identificacion": "040889",
+  "posición": "delantero",
+  "equipo": "equipo 4"
+}]
